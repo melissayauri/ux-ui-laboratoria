@@ -11,7 +11,8 @@ El presente reto tiene detallar que partes de la página web de Laboratoria pert
 *	Asimismo, en la pagina principal de laboratorio aparece comentarios de egresadas u otras personas que resaltan el valor de laboratoria.
 *	Que la pagina web este seccionada por partes de reconocimientos, los aliados a laboratoria, el impacto y el blog que tienen.
 *	En la sección blog cuando el cursor pasa por algún post aparece una fila con los iconos de redes sociales.
-* Cuando ingresas a otras secciones fuera de la paguna principal de laboratoria, aparece un chat en línea para cualquier ayuda.
+* Cuando ingresas a otras secciones fuera de la pagína principal de laboratoria, aparece un chat en línea para cualquier ayuda.
+* Al momento de ingresar sale un cuadro donde te pregunta si recomendarías la plataforma.
 
 ## Parte UI design
 * En color característico de laboratoria se encuentre en cada botón de las diversas secciones de la web.
